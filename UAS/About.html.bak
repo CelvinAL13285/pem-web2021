@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Prata&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="All_File.css">
+    <link rel="stylesheet" href="about_css.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <title>Vinlyfe About</title>
+</head>
+<body>
+    <div class="header mnsrat">
+        <h1 style="font-size: 50px;">MY BLOG</h1>
+        <p style="padding: 15px; font-size: 25px;">Welcome</p>
+    </div>
+    <nav class="mnsrat">
+        <label class="logo"><a href="Home.html"><img src="gambar/logo.jpg" alt="Celvin Taufiq Alhakim"></a></label>
+        <input type="checkbox" id="check">
+        <label for="check" class="checkbtn">
+                <i class="fas fa-bars"></i>
+        </label>
+        <ul>
+            <li><a href="Home.html">Home</a></li>
+            <li><a class="aktif" href="#">About</a></li>
+            <li><a href="Blog.html">Blog</a></li>
+            <li><a href="Buku_Tamu.php">Buku Tamu</a></li>
+        </ul>
+    </nav>
+    <div class="utama">
+        <div>
+            <img src="gambar/foto-celvin.jpg" alt="Celvin Taufiq Alhakim">
+        </div>
+        <div class="tengah">
+            <h1>CELVIN TAUFIQ ALHAKIM</h1>
+            <h2>Teknik Informatika - S1 (FIK)</h2>
+            <p>Hallo teman-teman, nama saya Celvin Taufiq Alhakim. Saya adalah mahasiswa Universitas Dian Nuswantoro (UDINUS) angkatan 2021. Saya mengambil jusrusan Teknik Informatika - S1 yang berada dalam Fakultas Ilmu Komputer (FIK).</p><br>
+            <p>Saya tinggal di Pati, Jawa Tengah. Saya pernah bersekolah di TK Marsudisiwi(Pati), SDN 01 Tlogowungu(Tlogowungu), SMPN 02 Pati, dan SMAN 03 Pati.</p>
+			<p>Hobi saya baca buku, nonton film dan main Game</p>
+			<p>Makanan dan Minuman yang disukai: Bakso, Nasi Goreng, Thai tea, Ice Black Choco dan all Tea.</p>
+			<p>Yang tidak disuka: bau menyengat, </p>
+        </div>
+        <div class="SM">
+            <a href="https://www.facebook.com/celvin.yuan.9?_rdc=1&_rdr" target="_blank"><i class="fab fa-facebook" style="color: blue;"></i></a>
+            <a href="https://youtube.com/channel/ucp2khoxuxc5jukjn7k_lhgq" target="_blank"><i class="fab fa-youtube" style="color: red;"></i></a>
+            <a href="https://www.instagram.com/celvin_a_/" target="_blank"><i class="fab fa-instagram" style="color: rgb(170, 32, 96);"></i></a>
+            <a href="https://api.whatsapp.com/send?phone=6285795613017&text=Hi" style="color: green;" target="_blank"><i class="fab fa-whatsapp"></i></a>
+            <a href="mailto:celvintaufiq24@gmail.com" target="_blank"><i class="fas fa-envelope" style="color: yellow;"></i></a>
+        </div>
+    </div>
+    <footer>
+       <h5 style="text-align: center;">Copyright &copy;2021 | Celvin Taufiq Alhakim</h5>
+       <a href="#"><i class="fas fa-arrow-up"></i></a>
+    </footer>
+</body>
+</html>

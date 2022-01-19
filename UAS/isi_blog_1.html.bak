@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Prata&display=swap" rel="stylesheet">
+    <title>Document</title>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link rel="stylesheet" href="All_File.css">
+    <link rel="stylesheet" href="isi_blog_css.css">
+</head>
+<body>
+    <div class="header mnsrat">
+        <h1 style="font-size: 50px;">MY BLOG</h1>
+        <p style="padding: 15px; font-size: 25px;">Welcome</p>
+    </div>
+    <nav class="mnsrat">
+        <label class="logo"><a href="Home.html"><img src="gambar/logo.jpg" alt="Celvin Taufiq Alhakim"></a></label>
+        <input type="checkbox" id="check">
+        <label for="check" class="checkbtn">
+                <i class="fas fa-bars"></i>
+        </label>
+        <ul>
+            <li><a  href="Home.html">Home</a></li>
+            <li><a href="About.html">About</a></li>
+            <li><a href="Blog.html">Blog</a></li>
+            <li><a href="Buku_Tamu.html">Buku Tamu</a></li>
+        </ul>
+    </nav>
+    <div class="utama">
+        <div class="tengah">
+            <h1>7 New and Upcoming Games</h1>
+        </div>
+        <div class="maju">
+            <h5>Celvin Taufiq Alhakim</h5>
+            <h6>10 Januari 2022</h6>
+        </div>
+        <div class="isi">
+            <h3>1. Horizon Forbidden West</h3>
+            <img src="gambar/horizon2.jpg" alt="Horizon Forbidden West">
+            <p>Horizon Forbidden West merupakan game action adventure yang merupakan sequel game Horizon Zero Dawn yang rilis pada tahun 2017 lalu, dari segi cerita, Horizon Forbidden West akan melanjutkan petualangan Aloy di dunia post-apocalyptic yang banyak terdapat robot dengan kecerdasan luar biasa, rilis di PS4 DAN PS5 di 2022.</p>
+            <h3>2. God of War: Ragnarok</h3>
+            <img src="gambar/gow2rag.jpg" alt="God of War: Ragnarok">
+            <p>God of War: Ragnarok bakal menjadi game action yang paling ditunggu-tunggu oleh penggemar sekuel game God of War, PlayStation Studios telah mengkonfirmasi bahwa God of War Ragnarok bakal rilis 2022. </p>
+            <h3>3. Starfield</h3>
+            <img src="gambar/starfield1.jpg" alt="Starfield">
+            <p>Starfield merupakan game besutan Bethesda Softworks yang kini berada dibawah perusahaan Xbox Game Studio, Starfield mengusung genre RPG sci-fi yang didesain khusus untuk konsol Xbox Series X dan Xbox Series S, Dari segi jalan cerita, game ini akan mambawa dunia baru dan petualangan baru kepada pemain yang bertemakan luar angkasa, jadwal rilis November 2022.</p>
+            <h3>4. Elden Ring</h3>
+            <img src="gambar/eldenring.jpg" alt="Elden Ring">
+            <p>Elden Ring merupakan game RPG dikembangkan oleh FromSoftware dan BandaiNamco, Game ini membawa cerita dari penulis populer, George R.R Martin, Sebagai informasi, George R.R Martin merupakan penulis serial TV populer Game of Thrones yang mempunyai latar cerita abad pertengahan, Kemungkinan besar, Elden Ring juga bakal membawa dunia abad pertengahan seperti game Daragon Age, rilis pada 25 Januari 2022 atau bisa pre-order di Steam.</p>
+            <h3>5. Gran Turismo 7</h3>
+            <img src="gambar/grantur7.jpg" alt="Gran Turismo 7">
+            <p>Gran Turismo 7 merupakan game racing-car yang mengusung kualitas grafis realistis, Game ini akan meluncur pada 4 Maret mendatang untuk konsol PS4 dan PS5, Masih belum ada keterangan pasti apakah Gran Turismo akan rilis di PC atau tidak.</p>
+            <h3>6. MonsterCrown</h3>
+            <img src="gambar/MnstrCrown.jpg" alt="MonsterCrown">
+            <p>Game ini merupakan game 2D RPG, yang memiliki monster yang bisa ditangkap hingga lebih dari 1500 monster, game ini memiliki banyak hal yang bisa di eksplorasi, seperti Cross-breeding, item crafting, customization yang membuat game ini sangat luas. game ini akan rilis disemua OS.</p>
+            <h3>7. Nexomon: Extiction</h3>
+            <img src="gambar/Nxomon.jpg" alt="Nexomon: Extiction">
+            <p style="padding-bottom: 20px;">Nexomon yang memiliki fokus pada cerita, cerita dalam game ini juga memilik banyak Plot cerita, seperti penghianatan, kehilangan, persahabatan, dan masih banyak plot cerita lainya. game ini merupakan lanjutan dari game sebelumnya yaitu Nexomon. game ini belum tersedia di Androin dan IOS, tetap sudah rilis secara resmi di Steam untuk PC.</p>
+        </div>
+    </div>
+    <footer>
+        <h5 style="text-align: center;">Copyright &copy;2021 | Celvin Taufiq Alhakim</h5>
+        <a href="#"><i class="fas fa-arrow-up"></i></a>
+     </footer>
+</body>
+</html>
